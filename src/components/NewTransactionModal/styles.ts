@@ -13,6 +13,7 @@ export const Container = styled.div`
       padding: 0 1.5rem;
       height: 4rem;
       border-radius: 0.25rem;
+      cursor: none;
 
       border: 1px solid #d7d7d7;
       background: #e7e9ee;
